@@ -233,4 +233,7 @@ null_summary = pd.DataFrame({
 null_summary
 ```
 
+## Project Presentation:
+[View the Full Project Presentation here](https://docs.google.com/presentation/d/18ogSoxFAHiOxWZUpq_AYeukP3j-IZwjLM_ahC4p_Rao/edit?usp=drivesdk
+)
 
